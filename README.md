@@ -1,17 +1,8 @@
-BootLeaf
-========
+Certificazione energetica Comune di Anzola dell'Emilia
 
-Simple templates for building web mapping applications with Bootstrap 3 and Leaflet.
+Questa mappa è stata elaborata usando come fonte dati: http://dati.emilia-romagna.it/dato/item/41-41-08-certificazione-energetica-3d-2011-kml.html
 
-* Simple Demo: http://bmcbride.github.io/bootleaf/
-* Sidebar Demo: http://bmcbride.github.io/bootleaf/sidebar.html
+Demo: http://www.apposta.biz/prove/energia/
 
-### Features:
-* Fullscreen mobile-friendly map template with responsive Navbar and modal placeholders
-* jQuery loading of external GeoJSON files
-* Elegant client-side multi-layer feature search with autocomplete using Twitter's typeahead.js
-* Integration of Bootstrap tables into Leaflet popups
-* Logic for minimizing Layer Control and removing Scale Control on small screens
-* Marker icons included in Layer Control
 
-![screenshot](http://bmcbride.github.io/bootleaf/screenshot.jpg)
+Licenza: la stessa del plugin di Leaflets usato (http://bmcbride.github.io/)
