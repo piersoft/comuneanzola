@@ -4,5 +4,4 @@ Questa mappa è stata elaborata usando come fonte dati: http://dati.emilia-romag
 
 Demo: http://www.apposta.biz/prove/energia/
 
-
-Licenza: la stessa del plugin di Leaflets usato (http://bmcbride.github.io/)
+Plugin di Leaflets: http://bmcbride.github.io/
